@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ejercicios_01_hash_table_GerardIruri31",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "p1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p1-Debug-d851e01c77f43c604662.json",
+					"name" : "p1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p2-Debug-cab46a6632a93a1cc085.json",
+					"name" : "p2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p3-Debug-f9ce4bab9c131ba74a12.json",
+					"name" : "p3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/USUARIO/CLionProjects/ejercicios-01-hash-table-GerardIruri31/cmake-build-debug",
+		"source" : "C:/Users/USUARIO/CLionProjects/ejercicios-01-hash-table-GerardIruri31"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
