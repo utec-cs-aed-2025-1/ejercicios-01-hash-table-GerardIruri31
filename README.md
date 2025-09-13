@@ -67,5 +67,16 @@ g++ -o p1 p1.cpp
 ./p1
 ```
 
+## CAPTURAS DE EJERCICIOS PROPUESTOS
+### EJERCICIO 1:
+![img.png](img.png)
+![img_1.png](img_1.png)
+
+
+### EJERCICIO 2:
+![img_2.png](img_2.png)
+
+### EJERCICIO 3:
+![img_3.png](img_3.png)
 
 
